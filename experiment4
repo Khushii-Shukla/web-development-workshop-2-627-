@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2> student result</h2>
+        <input type="number" id="subjects" placeholder="enter number of subjects">
+        <br></br
+        <button onclick="calculate()">calculate result</button> // button to trigger the calculation function that is onclick.
+        <div id="output"></div>
+        <script src="script.js"></script>
+        
+        
+
+
+    
+</body>
+</html>
